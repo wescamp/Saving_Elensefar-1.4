@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+       Ce,       Ce,     Ce,       Ce,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,      Cud,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Ce,       Ce,     1 Ke,       Ce,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,      Cud,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Ce,       Ce,       Ce,       Ce,       Gg,       Xu,       Xu,       Xu,       Xu,     2 Kud,      Cud,       Re,       Re,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Gg,       Gg,       Rr,       Rr,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Re,       Re,       Re,       Re,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Gg,       Gg,       Rr,       Rr,       Gg,       Gg,       Gg,       Xu,       Gg,       Xu,       Gg,       Xu,       Gg,       Re,       Re,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Gg,       Gg,       Rr,       Rr,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Gg,       Gg,       Re,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Gg,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu
+       Re,       Re,       Gg,       Gg,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Rr,       Rr,       Rr,       Gg,       Gg,       Xu,       Gg,       Gg
+       Re,       Re,       Gg,       Xu,       Xu,       Gg,       Xu,       Gg,       Xu,       Gg,       Xu,       Gg,       Xu,       Gg,       Gg,       Rr,       Rr,       Rr,       Rr,       Gg,       Rr,       Rr
+       Re,       Re,       Re,       Xu,      Cud,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Gg,       Gg,       Rr,       Rr,       Rr,       Rr,       Rr
+       Re,       Re,       Re,      Cud,     3 Kud,      Cud,       Re,       Re,       Re,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Gg,       Rr,       Rr,       Rr,       Rr
+       Xu,       Xu,       Xu,      Cud,       Xu,      Cud,       Xu,       Re,       Re,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Gg,       Rr,       Rr,       Rr,       Rr
+       Xu,       Xu,       Gg,       Xu,       Gg,       Xu,       Xu,       Re,       Gg,       Gg,       Gg,       Xu,       Gg,       Xu,       Gg,       Xu,       Gg,       Gg,       Rr,       Rr,       Rr,       Rr
+       Re,       Re,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr
+       Re,       Re,       Rr,       Gg,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Rr,       Gg,       Gg,       Gg,       Gg
+       Rr,       Rr,       Rr,       Rr,       Ce,       Ce,       Ce,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Rr,       Gg,       Gg,       Xu,       Xu,       Xu,       Xu
+       Gg,       Gg,    Gg^Vh,       Rr,       Ce,       Ke,       Ce,       Rr,       Gg,       Gg,       Xu,       Gg,       Xu,       Gg,       Xu,       Gg,       Re,       Re,       Re,       Xu,       Xu,       Xu
+   Ww^Bw/,   Ww^Bw/,       Ww,       Gg,    Gg^Vh,       Ce,       Rr,       Rr,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,       Re,       Re,       Re,       Re,       Xu,       Xu,       Xu,       Xu
+       Ww,       Ww,   Ww^Bw/,   Ww^Bw/,       Ww,       Gg,    Gg^Vh,       Rr,       Gg,       Xu,       Xu,       Xu,     4 Kud,      Cud,      Cud,       Re,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Ww,       Ww,       Ww,       Ww,   Ww^Bw/,   Ww^Bw/,       Ww,       Gg,       Gg,       Xu,       Xu,       Xu,       Xu,      Cud,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Ww,       Ww,       Ww,       Ww,       Ww,       Ww,       Ww,       Gg,       Gg,       Gg,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu
+       Ww,       Ww,       Ww,       Ww,       Ww,       Ww,       Ww,       Gg,       Gg,       Gg,       Gg,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu,       Xu

@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Xu,       Xu,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Xu,       Re,    Uu^Vu,       Re,       Xu,       Xu,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Re,       Ce,       Ce,       Ce,       Re,       Xu,       Wo,       Wo,       Wo,       Xu,       Xu,       Xu,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Re,       Ce,     2 Ke,       Ce,       Re,       Xu,       Wo,       Wo,       Xu,       Re,       Re,       Re,       Xu,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Re,       Re,       Ce,       Re,       Re,       Xu,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Re,       Re,       Re,       Xu,       Wo,       Wo,       Wo,       Rr,       Re,       Xu,       Re,       Rr,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Rr,       Re,       Xu,       Re,       Rr,       Wo,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,   Rr^Wyb,       Re,       Re,       Re,   Rr^Wyb,   Ww^Bw\,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,   Ww^Bw\,   Ww^Bw\,       Rr,       Re,       Xu,       Re,       Rr,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,   Rr^Wyb,       Re,       Xu,       Re,   Rr^Wyb,   Ww^Bw\,       Wo,       Wo,   Rr^Wyb,       Re,       Re,       Re,   Rr^Wyb,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,   Ww^Bw\,   Ww^Bw\,       Rr,       Re,       Re,       Re,       Rr,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,       Wo,       Wo,   Rr^Wyb,       Ce,       Ce,       Ce,   Rr^Wyb,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Rr,       Re,       Re,       Re,       Rr,       Wo,       Wo,       Wo,       Re,       Ce,     1 Ke,       Ce,       Re,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Xu,       Re,       Xu,       Xu,       Wo,       Wo,       Wo,       Re,       Re,       Ce,       Re,       Re,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Xu,       Re,       Xu,       Xu,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Xu,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
+       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo,       Wo
