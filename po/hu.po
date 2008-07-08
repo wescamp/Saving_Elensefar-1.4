@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-07-07 22:55+0200\n"
-"PO-Revision-Date: 2008-07-07 22:55+0200\n"
+"PO-Revision-Date: 2005-04-29 20:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [scenario]
 #. [campaign]
@@ -30,8 +30,9 @@ msgstr ""
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:17
+#, fuzzy
 msgid "(easiest)"
-msgstr ""
+msgstr "(könnyű)"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:17
@@ -45,8 +46,9 @@ msgstr ""
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:19
+#, fuzzy
 msgid "(hardest)"
-msgstr ""
+msgstr "(nehéz)"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:19
@@ -221,7 +223,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:74
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:67
 msgid "Turns run out"
-msgstr ""
+msgstr "Túlléped a körök számát"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:191
@@ -268,7 +270,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:54
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:51
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Legyőzöd az ellenséges vezért"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:74
@@ -893,7 +895,7 @@ msgstr ""
 #. [message]: description=Pirate Galley
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:90
 msgid "Never!"
-msgstr ""
+msgstr "Soha!"
 
 #. [message]: description=Wesnothian Galley
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:125
@@ -903,7 +905,7 @@ msgstr ""
 #. [message]: description=The Explorer
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:144
 msgid "What's going on here?"
-msgstr ""
+msgstr "Mi folyik itt?"
 
 #. [message]: description=Wesnothian Galley
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:148
@@ -1033,7 +1035,7 @@ msgstr ""
 #. [scenario]
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilógus"
 
 #. [part]
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:37
@@ -2303,7 +2305,7 @@ msgstr ""
 #. [option]: speaker=narrator
 #: Saving_Elensefar/scenarios/utils/utils.cfg:112
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/utils/utils.cfg:116
@@ -2313,7 +2315,7 @@ msgstr ""
 #. [option]: speaker=narrator
 #: Saving_Elensefar/scenarios/utils/utils.cfg:134
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/utils/utils.cfg:138
@@ -2358,7 +2360,7 @@ msgstr ""
 #: Saving_Elensefar/units/Black_Galleon.cfg:24
 #: Saving_Elensefar/units/War_Galleon.cfg:24
 msgid "ballista"
-msgstr ""
+msgstr "dárdavető"
 
 #. [unit]: race=elf
 #: Saving_Elensefar/units/Elvish_Admiral.cfg:4
@@ -2370,7 +2372,7 @@ msgstr ""
 #: Saving_Elensefar/units/Elvish_Navigator.cfg:21
 #: Saving_Elensefar/units/Elvish_Mariner.cfg:28
 msgid "staff"
-msgstr ""
+msgstr "bot"
 
 #. [unit]: race=elf
 #: Saving_Elensefar/units/Elvish_Mariner.cfg:4
@@ -2437,3 +2439,21 @@ msgstr ""
 #: Saving_Elensefar/utils/terrain.cfg:9
 msgid "Grog Barrel"
 msgstr ""
+
+#~ msgid "Duelist"
+#~ msgstr "Párbajhős"
+
+#~ msgid "impact"
+#~ msgstr "ütés"
+
+#~ msgid "skirmisher"
+#~ msgstr "portyázó"
+
+#~ msgid "blade"
+#~ msgstr "penge"
+
+#~ msgid "crossbow"
+#~ msgstr "számszeríj"
+
+#~ msgid "pierce"
+#~ msgstr "páncéltörés"
