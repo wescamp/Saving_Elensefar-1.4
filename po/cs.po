@@ -1,22 +1,25 @@
+# translation of cs.po to
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: cs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-07-07 22:55+0200\n"
-"PO-Revision-Date: 2008-07-07 22:55+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2008-09-08 18:07+0100\n"
+"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
+"Language-Team:  <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #. [scenario]
 #. [campaign]
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
 #: Saving_Elensefar/_main.cfg:11
 msgid "Saving Elensefar"
-msgstr ""
+msgstr "Záchrana Elensefaru"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:14
@@ -27,36 +30,41 @@ msgid ""
 "\n"
 "(Version "
 msgstr ""
+"Meneldur, elfí námořník z Elensefaru, je vyhnán na moře skřety, kteří "
+"zaútočili na město. Musí shromáždit vojsko ochotné bojovat za osvobození "
+"Elensefaru, jeho adoptivního domova.\n"
+"\n"
+"(Verze "
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:17
 msgid "(easiest)"
-msgstr ""
+msgstr "(lehká)"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:17
 msgid "Mariner"
-msgstr ""
+msgstr "Námořník"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:18
 msgid "Navigator"
-msgstr ""
+msgstr "Navigátor"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:19
 msgid "(hardest)"
-msgstr ""
+msgstr "(těžká)"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:19
 msgid "Admiral"
-msgstr ""
+msgstr "Admirál"
 
 #. [scenario]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:3
 msgid "Escaping the Orcs"
-msgstr ""
+msgstr "Únik před skřety"
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:21
@@ -67,6 +75,12 @@ msgid ""
 "carry over fron scenario to scenario. Also, moving from scenario to scenario "
 "is handled differently, with the help of an interactive bigmap."
 msgstr ""
+"Upozornění:\n"
+"Toto tažení používá často jiné mechanismy než je u většiny tažení obvyklé. "
+"Ve většině scénářů nelze verbovat nové jednotky a i v těch, kde je verbování "
+"možné, se aktuální možný výběr mění. Prostě seznam pro verbování se "
+"nepřenáší ze scénáře do scénáře. Také pohyb mezi jednotlivými scénáři "
+"funguje odlišně, pomocí velké interaktivní mapy. "
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:25
@@ -76,6 +90,9 @@ msgid ""
 "will prove an interesting experience for those who have played normal "
 "campaigns before."
 msgstr ""
+"Vzhledem k těmto skutečnostem, nelze toto tažení doporučit nováčkům ve hraní "
+"Wesnothu, kteří ještě nemají zažito, jak hra normálně funguje. Pro ty, kteří "
+"již nějaká běžná tažení hráli, však může být zajímavou zkušeností."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:31
@@ -87,6 +104,12 @@ msgid ""
 "resurrect some of the old. But, it is, most of all, the story of the voyage "
 "of his ship, and what he encountered while traveling the high seas..."
 msgstr ""
+"Toto je příběh z časů, kdy byl Elensefar provincií rozlehlého království "
+"Wesnoth. Je to příběh o velkém zapomnění, kdy to, co bylo známo, upadlo v "
+"nevědomost. Je to ale také příběh o velkém poznání. Je to příběh Meneldura "
+"Námořníka, který se vydal vstříc novým obzorům, aby vzkřísil ty staré. Ale "
+"je to především příběh putování jeho lodi a o tom, co ho na širém moři "
+"potkalo..."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:35
@@ -115,6 +138,9 @@ msgid ""
 "and ruthless men of the saber. He also brought many of the archer from his "
 "elvish house out of the northlands, to sail with him on his ship."
 msgstr ""
+"Meneldur kolem sebe shromáždil posádku pravých Elensianů - odvážné kopiníky "
+"i drsné muže šavle. Také si s sebou ze svého elfího domova na severu přivedl "
+"mnoho lučištníků. Ti všichni se s ním plavili na jeho lodi."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:47
@@ -126,6 +152,12 @@ msgid ""
 "to wend. He was to travel south to the Elven peninsula, and trade with the "
 "southern elves."
 msgstr ""
+"Tady náš příběh začíná.\n"
+"Stalo se to jedné noci, přibližně 10 let poté, co Meneldur poprvé přišel do "
+"Elensefaru. Meneldur se právě vrátil do města z obchodní cesty do Zátoky "
+"perel. Po přistání se odebral do hradu k vládci Elensefaru pro instrukce a "
+"pokyny pro další cestu. Dostal za úkol vyrazit na obchodní plavbu k jižním "
+"elfům na Elfím poloostrově."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:51
@@ -135,6 +167,11 @@ msgid ""
 "under attack, with no provocation. The city had been quickly overrun, before "
 "most of the people had even noticed."
 msgstr ""
+"Po audienci, když se Meneldur se svými muži odebíral zpátky na loď, "
+"zaslechli podivný zvuk. Pronikavý hluk. Hluk, co vydává skřetí vojsko! "
+"Elensefar byl zčista jasna napaden, a to i přes to, že k tomu nezavdal "
+"žádnou příčinu. Město bylo obsazeno. dřív, než se většina obyvatel stačila "
+"vzpamatovat."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:55
@@ -142,21 +179,23 @@ msgid ""
 "Meneldur had only one option left - get back on his boat and flee. But there "
 "were already orcs blocking his path to the harbor..."
 msgstr ""
+"Meneldurovi zbyla jediná možnost - dostat se na loď a uprchnout. Ale cesta "
+"do přístavu byla již také blokována skřety ..."
 
 #. [side]: description=Meneldur, type=Elvish Mariner
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:64
 msgid "Meneldur"
-msgstr ""
+msgstr "Meneldur"
 
 #. [unit]: type=Sailor, description=Madru
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:77
 msgid "Madru"
-msgstr ""
+msgstr "Madru"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:167
 msgid "Move Meneldur to the Explorer"
-msgstr ""
+msgstr "Dojdi s Meneldurem k Průzkumníkovi"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:66
@@ -178,7 +217,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:58
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:55
 msgid "Death of Meneldur"
-msgstr ""
+msgstr "Meneldur zemře"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:70
@@ -200,7 +239,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:62
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:59
 msgid "Death of Madru"
-msgstr ""
+msgstr "Madru zemře"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:78
@@ -221,7 +260,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:74
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:67
 msgid "Turns run out"
-msgstr ""
+msgstr "Vyprší limit"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:191
@@ -229,16 +268,19 @@ msgid ""
 "Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
 "have to reach the ship!"
 msgstr ""
+"Skřeti! Skřeti útočí! Je jich příliš mnoho, nemůžeme se jim postavit! Musíme "
+"se dostat na loď!"
 
 #. [message]: description=Madru
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:195
 msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
-msgstr ""
+msgstr "Jo jasně kapitáne. Všichni na loď a hoďte sebou!"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:218
 msgid "Now, we go out to sea. I expect our city is doomed..."
 msgstr ""
+"Tak a teď vyrazíme na moře. Předpokládám, že po našem městě je veta ... "
 
 #. [scenario]
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:3
@@ -253,7 +295,7 @@ msgstr ""
 #. [side]: description=Aldran, type=Lieutenant
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:49
 msgid "Aldran"
-msgstr ""
+msgstr "Aldran"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:47
@@ -268,7 +310,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:54
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:51
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Poraz nepřátelského vůdce"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:74
@@ -1215,7 +1257,7 @@ msgstr ""
 #. [scenario]
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:3
 msgid "The Swampland"
-msgstr ""
+msgstr "Blata"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:79
@@ -2278,17 +2320,17 @@ msgstr ""
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/utils/utils.cfg:27
 msgid "Ahnnhnnhn..."
-msgstr ""
+msgstr "Achhh ..."
 
 #. [message]: description=Madru
 #: Saving_Elensefar/scenarios/utils/utils.cfg:40
 msgid "Ughnnnhnnhn..."
-msgstr ""
+msgstr "Unhn ..."
 
 #. [message]: description=Black the Red
 #: Saving_Elensefar/scenarios/utils/utils.cfg:53
 msgid "Ughnhnhnhhn..."
-msgstr ""
+msgstr "Ughn ..."
 
 #. [message]: description=Psison
 #: Saving_Elensefar/scenarios/utils/utils.cfg:66
@@ -2303,22 +2345,22 @@ msgstr ""
 #. [option]: speaker=narrator
 #: Saving_Elensefar/scenarios/utils/utils.cfg:112
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/utils/utils.cfg:116
 msgid "Fall back!"
-msgstr ""
+msgstr "Ústup!"
 
 #. [option]: speaker=narrator
 #: Saving_Elensefar/scenarios/utils/utils.cfg:134
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/utils/utils.cfg:138
 msgid "Fight on!"
-msgstr ""
+msgstr "Do boje!"
 
 #. [unit]
 #: Saving_Elensefar/scenarios/utils/utils.cfg:257
@@ -2358,7 +2400,7 @@ msgstr ""
 #: Saving_Elensefar/units/Black_Galleon.cfg:24
 #: Saving_Elensefar/units/War_Galleon.cfg:24
 msgid "ballista"
-msgstr ""
+msgstr "balista"
 
 #. [unit]: race=elf
 #: Saving_Elensefar/units/Elvish_Admiral.cfg:4
@@ -2402,7 +2444,7 @@ msgstr ""
 #: Saving_Elensefar/units/Shipsmaster.cfg:45
 #: Saving_Elensefar/units/Sailor.cfg:52
 msgid "sabre"
-msgstr ""
+msgstr "šavle"
 
 #. [unit]: race=human
 #: Saving_Elensefar/units/Shipsmaster.cfg:4
@@ -2436,4 +2478,4 @@ msgstr ""
 #. [terrain]
 #: Saving_Elensefar/utils/terrain.cfg:9
 msgid "Grog Barrel"
-msgstr ""
+msgstr "Sud grogu"
