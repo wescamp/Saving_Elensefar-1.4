@@ -1,8 +1,7 @@
-# Danish translation of wesnoth-Saving Elensefar (da.po)
-# Dansk oversættelse for wesnoth-Saving Elensefar (da.po).
-# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+# Danish translation of Saving Elensefar.
+# Copyright (C) 2008 Wesnoth Development Team and Joe Hansen.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007, 2008.
 #
 # Prepare to die! fremgår en del steder i denne kampagne. Den er oversat lidt 
 # forskelligt for at skabe lidt sproglig nuance.
@@ -10,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-07-07 22:55+0200\n"
-"PO-Revision-Date: 2007-05-07 22:15+0200\n"
+"POT-Creation-Date: 2008-10-25 14:24+0200\n"
+"PO-Revision-Date: 2008-11-17 22:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -20,10 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # andre bud: Redning af Elensefar, Elensefars reddes
-#. [scenario]
 #. [campaign]
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
+#. [scenario]
 #: Saving_Elensefar/_main.cfg:11
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
 msgid "Saving Elensefar"
 msgstr "Undsætning af Elensefar"
 
@@ -44,9 +43,8 @@ msgstr ""
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:17
-#, fuzzy
 msgid "(easiest)"
-msgstr "(let)"
+msgstr "(nemmest)"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:17
@@ -60,9 +58,8 @@ msgstr "Navigatør"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:19
-#, fuzzy
 msgid "(hardest)"
-msgstr "(svær)"
+msgstr "(sværest)"
 
 #. [campaign]
 #: Saving_Elensefar/_main.cfg:19
@@ -161,7 +158,6 @@ msgstr ""
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:47
-#, fuzzy
 msgid ""
 "Now our story begins. On a night about 10 years after he first came to "
 "Elensefar, Meneldur returned to Elensefar from a trading voyage to the Bay "
@@ -179,7 +175,6 @@ msgstr ""
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:51
-#, fuzzy
 msgid ""
 "After the meeting, as Meneldur and his men headed back to their ship, they "
 "noticed a strange sound. A harsh sound. The sound of orcs! Elensefar was "
@@ -216,67 +211,67 @@ msgid "Move Meneldur to the Explorer"
 msgstr "Flyt Meneldur til skibet Opdageren"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:66
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:51
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:70
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:73
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:108
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:50
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:101
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:54
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:75
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:47
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:171
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:59
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:53
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:51
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:94
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:51
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:108
+#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:101
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:58
+#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:50
+#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:94
+#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:51
+#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:47
+#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:51
+#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:53
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:66
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:59
+#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:54
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:51
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:171
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:55
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:70
 msgid "Death of Meneldur"
 msgstr "Meneldurs død"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:70
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:55
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:74
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:77
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:112
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:54
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:105
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:58
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:79
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:51
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:175
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:63
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:57
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:55
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:98
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:55
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:112
+#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:105
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:62
+#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:54
+#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:98
+#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:55
+#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:51
+#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:55
+#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:57
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:70
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:63
+#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:58
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:55
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:175
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:59
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:74
 msgid "Death of Madru"
 msgstr "Madrus død"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:78
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:63
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:82
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:85
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:124
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:62
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:66
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:91
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:59
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:179
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:71
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:65
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:63
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:110
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:63
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:124
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:74
+#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:62
+#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:110
+#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:63
+#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:59
+#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:63
+#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:65
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:78
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:71
+#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:66
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:63
+#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:179
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:67
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:82
 msgid "Turns run out"
 msgstr "Tiden løber ud"
 
@@ -315,38 +310,38 @@ msgid "Aldran"
 msgstr "Aldran"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:47
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:66
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:46
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:50
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:43
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:55
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:49
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:47
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:47
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:54
+#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:46
+#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:47
+#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:43
+#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:47
+#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:49
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:55
+#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:50
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:47
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:51
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:66
 msgid "Defeat enemy leader"
 msgstr "Besejr fjendtlig leder"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:74
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:59
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:78
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:81
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:116
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:58
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:109
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:62
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:83
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:55
-#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:67
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:61
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:59
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:102
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:59
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:116
+#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:109
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:66
+#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:58
+#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:102
+#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:59
+#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:55
+#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:59
+#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:61
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:74
+#: Saving_Elensefar/scenarios/r_Sea_Battle.cfg:67
+#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:62
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:59
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:63
+#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:78
 msgid "Death of Black the Red"
 msgstr "Sort den Rødes død"
 
@@ -523,11 +518,11 @@ msgid "Blackmore the Black"
 msgstr "Blackmore den Sorte"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:62
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:69
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:104
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:71
+#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:104
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:90
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:62
 msgid "Defeat enemy leaders"
 msgstr "Besejr fjendtlige ledere"
 
@@ -622,7 +617,7 @@ msgid ""
 "What!? Followers of that deserter!? I can't believe you think we would help "
 "them!"
 msgstr ""
-"Hvad!? Medløbere til den forræder!? Jeg kan ikke tro, at vi vil hjælpe dem."
+"Hvad!? Medløbere til den forræder!? Jeg kan ikke tro, at vi vil hjælpe dem!"
 
 #. [message]: description=Black the Red
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:172
@@ -782,7 +777,7 @@ msgid ""
 "way?"
 msgstr ""
 "Hvad? Der er elver, som blokerer vores vej! Elver hvorfor går i på tværs af "
-"os."
+"os?"
 
 #. [message]: description=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:310
@@ -889,7 +884,7 @@ msgstr ""
 msgid ""
 "Yes, please, do that. Then we will not have to deal with the orcs, and only "
 "with you!"
-msgstr "Ja gør det. Så skal vi ikke tage os af orkerne, kun dig."
+msgstr "Ja gør det. Så skal vi ikke tage os af orkerne, kun dig!"
 
 #. [message]: description=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:388
@@ -1085,7 +1080,6 @@ msgstr "Hvad sker der her?"
 
 #. [message]: description=Wesnothian Galley
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:148
-#, fuzzy
 msgid "So, you're getting involved too, eh? Stop that ship, men!"
 msgstr "Så du blander dig også hva? Stop det skib mænd!"
 
@@ -2855,7 +2849,7 @@ msgstr "Elvernavigatør"
 #. [unit]: race=human
 #: Saving_Elensefar/units/Sailor.cfg:4
 msgid "Sailor"
-msgstr ""
+msgstr "Sømand"
 
 #. [unit]: race=human
 #: Saving_Elensefar/units/Sailor.cfg:36
@@ -2867,17 +2861,23 @@ msgid ""
 "the deep. Their only weapon is their light rapier, which they sling across "
 "their shoulder when not using it."
 msgstr ""
+"Sømænd, som begyndte at rejse på havet mens de var unge, er næsten lige så "
+"hjemmevandt på havet som på land. For at kunne foretage alle de hurtige "
+"bevægelser som kræves af et besætningsmedlem, bærer sømænd ikke rustning. "
+"Det ville kun presse dem ned, og de ville sikkert drukne hvis de faldt i "
+"havet. Deres eneste våben er deres lette kårde, som de har hænger over deres "
+"skulder når de ikke bruger den."
 
 #. [attack]: type=blade
-#: Saving_Elensefar/units/Shipsmaster.cfg:45
 #: Saving_Elensefar/units/Sailor.cfg:52
+#: Saving_Elensefar/units/Shipsmaster.cfg:45
 msgid "sabre"
-msgstr ""
+msgstr "sabel"
 
 #. [unit]: race=human
 #: Saving_Elensefar/units/Shipsmaster.cfg:4
 msgid "Shipsmaster"
-msgstr ""
+msgstr "Skibsmester"
 
 #. [unit]: race=human
 #: Saving_Elensefar/units/Shipsmaster.cfg:41
@@ -2889,6 +2889,12 @@ msgid ""
 "the sea to drown him. His weapon is his rapier, which he wields with "
 "ferocious skill."
 msgstr ""
+"Lederen af ethvert skib de er på, er skibsmesteren kun underlagt kaptajnen "
+"på skibet. Han foretager ikke det manuelle arbejde ombord som de fleste "
+"besætningsmedlemmer gør, han overlader det til dem som arbejder for ham, men "
+"nægter stadig at bruge rustning eller tunge våben, da det ville være en "
+"invitation til havet om at drukne ham. Hans våben er kården, som han kan "
+"bruge med imponerende evner."
 
 #. [unit]
 #: Saving_Elensefar/units/War_Galleon.cfg:4
@@ -2909,7 +2915,7 @@ msgstr ""
 #. [terrain]
 #: Saving_Elensefar/utils/terrain.cfg:9
 msgid "Grog Barrel"
-msgstr ""
+msgstr "Grogtønde"
 
 #~ msgid "(medium)"
 #~ msgstr "(medium)"
