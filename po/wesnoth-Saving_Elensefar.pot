@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-07-07 22:55+0200\n"
+"POT-Creation-Date: 2008-10-25 14:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [scenario]
 #. [campaign]
-#: ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3 ./Saving_Elensefar/_main.cfg:11
+#. [scenario]
+#: ./Saving_Elensefar/_main.cfg:11 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
 msgid "Saving Elensefar"
 msgstr ""
 
@@ -115,17 +115,17 @@ msgid "Move Meneldur to the Explorer"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:66 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:51 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:70 ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:73 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:108 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:50 ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:101 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:54 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:75 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:47 ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:171 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:59 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:53 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:51 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:94 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:51 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:58 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:55
+#: ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:73 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:75 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:108 ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:101 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:58 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:50 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:94 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:51 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:47 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:51 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:53 ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:66 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:59 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:54 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:51 ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:171 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:55 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:70
 msgid "Death of Meneldur"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:70 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:55 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:74 ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:77 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:112 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:54 ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:105 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:58 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:79 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:51 ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:175 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:63 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:57 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:55 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:98 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:55 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:62 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:59
+#: ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:77 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:79 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:112 ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:105 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:62 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:54 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:98 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:55 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:51 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:55 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:57 ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:70 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:63 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:58 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:55 ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:175 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:59 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:74
 msgid "Death of Madru"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:78 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:63 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:82 ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:85 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:124 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:62 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:66 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:91 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:59 ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:179 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:71 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:65 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:63 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:110 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:63 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:74 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:67
+#: ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:85 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:91 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:124 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:74 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:62 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:110 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:63 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:59 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:63 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:65 ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:78 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:71 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:66 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:63 ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:179 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:67 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:82
 msgid "Turns run out"
 msgstr ""
 
@@ -160,12 +160,12 @@ msgid "Aldran"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:47 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:66 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:46 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:50 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:43 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:55 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:49 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:47 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:47 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:54 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:51
+#: ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:54 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:46 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:47 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:43 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:47 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:49 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:55 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:50 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:47 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:51 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:66
 msgid "Defeat enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:74 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:59 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:78 ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:81 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:116 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:58 ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:109 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:62 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:83 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:55 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:67 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:61 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:59 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:102 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:59 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:66 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:63
+#: ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:81 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:83 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:116 ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:109 ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:66 ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:58 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:102 ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:59 ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:55 ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:59 ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:61 ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:74 ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:67 ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:62 ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:59 ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:63 ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:78
 msgid "Death of Black the Red"
 msgstr ""
 
@@ -275,7 +275,7 @@ msgid "Blackmore the Black"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:62 ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:69 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:104 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:71 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:90
+#: ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:69 ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:71 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:104 ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:90 ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:62
 msgid "Defeat enemy leaders"
 msgstr ""
 
@@ -1840,7 +1840,7 @@ msgid "Sailors, who began traversing the ocean when they were young, are almost 
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Saving_Elensefar/units/Shipsmaster.cfg:45 ./Saving_Elensefar/units/Sailor.cfg:52
+#: ./Saving_Elensefar/units/Sailor.cfg:52 ./Saving_Elensefar/units/Shipsmaster.cfg:45
 msgid "sabre"
 msgstr ""
 
