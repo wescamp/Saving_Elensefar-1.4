@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-10-25 14:24+0200\n"
+"POT-Creation-Date: 2009-02-05 00:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. [campaign]
-#. [scenario]
+#. [scenario]: id=sea_voyage_plus1
 #: ./Saving_Elensefar/_main.cfg:11 ./Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
 msgid "Saving Elensefar"
 msgstr ""
@@ -49,7 +49,7 @@ msgstr ""
 msgid "Admiral"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_-1
 #: ./Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:3
 msgid "Escaping the Orcs"
 msgstr ""
@@ -144,7 +144,7 @@ msgstr ""
 msgid "Now, we go out to sea. I expect our city is doomed..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_-2
 #: ./Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:3
 msgid "A Naval Engagement"
 msgstr ""
@@ -269,7 +269,7 @@ msgstr ""
 msgid "Very much so. Now, I will move my troops to your boat (it is faster), and we will head on west..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_14
 #: ./Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:3
 msgid "Blackmore the Black"
 msgstr ""
@@ -609,7 +609,7 @@ msgstr ""
 msgid "I'm sure we will have time to discuss that later. But for now, we must help those conquered by the orcs rebuild their city."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_fake1
 #: ./Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:3
 msgid "Attacked at Sea"
 msgstr ""
@@ -649,7 +649,7 @@ msgstr ""
 msgid "So, you're getting involved too, eh? Stop that ship, men!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_fake2
 #: ./Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:3
 msgid "Return to Elensefar"
 msgstr ""
@@ -744,7 +744,7 @@ msgstr ""
 msgid "Ah-Reblak"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_fake3
 #: ./Saving_Elensefar/scenarios/f3-Epilogue.cfg:3
 msgid "Epilogue"
 msgstr ""
@@ -864,7 +864,7 @@ msgstr ""
 msgid "Very well. I suppose this council is ended, and the real work of Daharan's reign shall begin."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_1
 #: ./Saving_Elensefar/scenarios/i1_The_Swampland.cfg:3
 msgid "The Swampland"
 msgstr ""
@@ -919,7 +919,7 @@ msgstr ""
 msgid "Amazing... so the stories are true!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_2
 #: ./Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:3
 msgid "Orc Mountain"
 msgstr ""
@@ -944,7 +944,7 @@ msgstr ""
 msgid "We have plenty of time to restock the ship now. We can train our troops here for a few days."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_3
 #: ./Saving_Elensefar/scenarios/i3-1_Theft.cfg:3
 msgid "Theft"
 msgstr ""
@@ -1014,7 +1014,7 @@ msgstr ""
 msgid "You find 100 gold pieces in the orc's castle."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_4
 #: ./Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:3
 msgid "Back to the Ship"
 msgstr ""
@@ -1049,7 +1049,7 @@ msgstr ""
 msgid "I will leave you now, but the fighters who fought for you will still help you, they say."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_5
 #: ./Saving_Elensefar/scenarios/i4_Fire_Island.cfg:3
 msgid "Fire Island"
 msgstr ""
@@ -1079,7 +1079,7 @@ msgstr ""
 msgid "True. Well then, we should defeat them so we can reprovision!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_6
 #: ./Saving_Elensefar/scenarios/i5-1_Traitors.cfg:3
 msgid "Traitors"
 msgstr ""
@@ -1179,7 +1179,7 @@ msgstr ""
 msgid "Gladly! Also, there is some gold here that Kalandur was saving... you can take it, since you did defeat him."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_7
 #: ./Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:3
 msgid "A Deadly Alliance"
 msgstr ""
@@ -1244,7 +1244,7 @@ msgstr ""
 msgid "Well, we won, but things might go badly for us later..."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_8
 #: ./Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:3
 msgid "The Frozen Lands"
 msgstr ""
@@ -1304,7 +1304,7 @@ msgstr ""
 msgid "Alright, men, lets go back to the ship now."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_9
 #: ./Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:3
 msgid "Wesnothian Forces"
 msgstr ""
@@ -1329,7 +1329,7 @@ msgstr ""
 msgid "I fear we must wipe out all of the Wesnothian troops on this isle, or they will follow us and attack our ship. Onward!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_10
 #: ./Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:3
 msgid "A King's Demand"
 msgstr ""
@@ -1409,7 +1409,7 @@ msgstr ""
 msgid "Very well... now, we will move further down the peninsula to regain our ship."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_11
 #: ./Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:3
 msgid "Off the Peninsula"
 msgstr ""
@@ -1464,7 +1464,7 @@ msgstr ""
 msgid "It is unfortunate the elves have also decided to oppose us. I suspect there are more of them roaming the seas."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_12
 #: ./Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:3
 msgid "The Desert Island"
 msgstr ""
@@ -1509,7 +1509,7 @@ msgstr ""
 msgid "That must be why he spoke like that. He is partly a lizard!"
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_13
 #: ./Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:3
 msgid "The Ruined Port"
 msgstr ""
@@ -1579,7 +1579,7 @@ msgstr ""
 msgid "Good, we have enough food now. We should go back out to sea, further north there are some people who might help us."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_battle_{DIRECT}
 #: ./Saving_Elensefar/scenarios/r_Sea_Battle.cfg:4
 msgid "Sea Battle"
 msgstr ""
@@ -1589,13 +1589,13 @@ msgstr ""
 msgid "They had 100 gold stored in their ship, and enough provisions to restock our ship."
 msgstr ""
 
-#. [scenario]
+#. [scenario]: id=sea_voyage_0
 #: ./Saving_Elensefar/scenarios/r_The_High_Seas.cfg:3
 msgid "The High Seas"
 msgstr ""
 
-#. [time]
-#. [illuminated_time]
+#. [time]: id=week
+#. [illuminated_time]: id=week
 #: ./Saving_Elensefar/scenarios/r_The_High_Seas.cfg:13 ./Saving_Elensefar/scenarios/r_The_High_Seas.cfg:19
 msgid "One Week"
 msgstr ""
@@ -1799,7 +1799,7 @@ msgstr ""
 msgid "quick, intelligent"
 msgstr ""
 
-#. [unit]
+#. [unit]: id=Black Galleon
 #: ./Saving_Elensefar/units/Black_Galleon.cfg:4
 msgid "Black Galleon"
 msgstr ""
@@ -1809,7 +1809,7 @@ msgstr ""
 msgid "ballista"
 msgstr ""
 
-#. [unit]: race=elf
+#. [unit]: id=Elvish Admiral, race=elf
 #: ./Saving_Elensefar/units/Elvish_Admiral.cfg:4
 msgid "Elvish Admiral"
 msgstr ""
@@ -1819,22 +1819,22 @@ msgstr ""
 msgid "staff"
 msgstr ""
 
-#. [unit]: race=elf
+#. [unit]: id=Elvish Mariner, race=elf
 #: ./Saving_Elensefar/units/Elvish_Mariner.cfg:4
 msgid "Elvish Mariner"
 msgstr ""
 
-#. [unit]: race=elf
+#. [unit]: id=Elvish Navigator, race=elf
 #: ./Saving_Elensefar/units/Elvish_Navigator.cfg:4
 msgid "Elvish Navigator"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Sailor, race=human
 #: ./Saving_Elensefar/units/Sailor.cfg:4
 msgid "Sailor"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Sailor, race=human
 #: ./Saving_Elensefar/units/Sailor.cfg:36
 msgid "Sailors, who began traversing the ocean when they were young, are almost as much at home in water as on land. In order to make all of the swift movements required of a crewman, Sailors do not wear any armor. It would only weigh them down, and would probably cause them to drown in they fell in the deep. Their only weapon is their light rapier, which they sling across their shoulder when not using it."
 msgstr ""
@@ -1844,27 +1844,27 @@ msgstr ""
 msgid "sabre"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Shipsmaster, race=human
 #: ./Saving_Elensefar/units/Shipsmaster.cfg:4
 msgid "Shipsmaster"
 msgstr ""
 
-#. [unit]: race=human
+#. [unit]: id=Shipsmaster, race=human
 #: ./Saving_Elensefar/units/Shipsmaster.cfg:41
 msgid "The master of whatever ship they are aboard, the Shipsmaster answers only to the captain of the vessel. He does not do the manual labor that most crewmen do, leaving that to those working beneath him, but still refuses to wear armor or wield heavy weapons, as doing so would be only an invitation for the sea to drown him. His weapon is his rapier, which he wields with ferocious skill."
 msgstr ""
 
-#. [unit]
+#. [unit]: id=War Galleon
 #: ./Saving_Elensefar/units/War_Galleon.cfg:4
 msgid "War Galleon"
 msgstr ""
 
-#. [unit]
+#. [unit]: id=War Galleon
 #: ./Saving_Elensefar/units/War_Galleon.cfg:21
 msgid "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. Their task is to hunt down pirates - or whoever they choose to call pirates - and destroy them. "
 msgstr ""
 
-#. [terrain]
+#. [terrain]: id=GrogBarrel
 #: ./Saving_Elensefar/utils/terrain.cfg:9
 msgid "Grog Barrel"
 msgstr ""
